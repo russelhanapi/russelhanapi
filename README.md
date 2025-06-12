@@ -38,12 +38,11 @@ GitHub profile! I'm a junior full-stack developer passionate about building user
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=russelhanapi&show_icons=true&theme=radical" alt="Russel's GitHub stats" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=russelhanapi&theme=radical" alt="GitHub streak" height="200"/>
-</div>
+## 📊 GitHub Stats
+| <img src="https://github-readme-stats.vercel.app/api?username=russelhanapi&show_icons=true&theme=radical" alt="Russel's GitHub Stats" height="200"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=russelhanapi&theme=radical" alt="Russel's GitHub Streak" height="200"/> |
+|---|---|
+
 
 <!-- ## 🧠 What I'm Learning Now
 - Data Structures and Algorithms
